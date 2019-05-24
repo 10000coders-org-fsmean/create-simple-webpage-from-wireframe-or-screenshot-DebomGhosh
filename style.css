@@ -1,0 +1,31 @@
+#bannerimage {
+    width: 100%;
+    background-image: url(https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/tnc_36722630_Full.jpg?crop=0,0,6549,4912&wid=580&hei=435&scl=11.291954022988506);
+    height: 200px;
+    background-color: purple;
+    background-position: center;
+    color: white;
+    font-size: 20px;
+  }
+  #topRow {
+ background-color: green;
+ color: white;
+  }
+  #top {
+      color: lightgreen;
+  }
+  #sidebar {
+    float : left;
+    width : 160px;
+    margin : 0 10px 0 0;
+    padding : 5px;
+    background : #e9eee4;
+    color : #333;
+    }
+    #navcontainer{
+      background-color: pink;
+      outline-style: dotted;
+    }
+    .heading{
+      background-color: green;
+    }
